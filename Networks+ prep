@@ -1,0 +1,42 @@
+btw    SSL 1996 TLS
+
+Topology reviewed. (done)
+
+Connectors (skipped)
+Cable standards (skipped)
+
+Firewalls (done)
+                 Soft or hardware
+                Stops unauthorized access, blocks unwanted traffic
+                ACL - access control list (allowed IP addresses) (or ports)
+                Rule IPLICID DENY
+
+                HOST BASED firewall
+                PC has software firewall - Windows Firewall
+                NETWORK BASED firewall
+
+                Stateful (through-record) vs stateless (not through, uses acl and no record)
+
+                Content filter
+
+                Signature identification (spots virus behaviour)
+
+                IDS/IPS (hardware) - viruses, malware, hackers
+                Intrusion detection and prevention sys tool
+
+Wiring standards (skipped)
+
+Media types (skipped)
+(5)
+
+Network components
+  Docsis (modem) - data ofver cable 10Gigabit downstream and 1 Gigabit upstream
+  Hub (not intelegent) eathernet conection from network devices (active with power vs passive no power)
+  Switch (inellegetn) learns physical addresses (switches reduce traffic on network)
+  l2
+  multilayer switch l2, l3
+  content switch l4-l7
+  PoЕ Power over ethernet
+    Spanning Tree protocol (avoid trafic loops)
+  Bridges
+   
