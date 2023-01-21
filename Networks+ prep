@@ -38,5 +38,35 @@ Network components
   content switch l4-l7
   PoЕ Power over ethernet
     Spanning Tree protocol (avoid trafic loops)
-  Bridges
-   
+  Bridges (filters based on mac addresss)
+  routers (based on ip)
+  gateway (connects netowrk with different formats + doesn't change data)
+  csu/dsu (local to WAN)
+  NICs - netork interface card (every nic has Mac addresss  - converts serial data to parallel data
+  Transceivers - wireles
+  WAP wireless access point
+  Modem (telephone lines) analog to digital 56kbps
+  
+  Wireless
+  5 standards
+  a,b,g,n,ac (speedd, frequeency released
+  Infrared - data transmitted in rays of light
+  (reuires a direct lne of sight, direct sunlight
+  Bluetooth2.4Ghz - 24mbps 100m
+  
+  MAC ADDRESS (media access control)
+  numbers + a-f
+  address = manufactureer (netgear + unique number)
+  ipconfig
+  
+  OSI
+  application   (email, HTTP, FTP , people readale data
+  presentation
+  session
+  transport
+  network
+  data link
+  phusical 
+  
+  
+  
