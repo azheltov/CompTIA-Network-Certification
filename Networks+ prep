@@ -48,25 +48,96 @@ Network components
   Modem (telephone lines) analog to digital 56kbps
   
   Wireless
-  5 standards
-  a,b,g,n,ac (speedd, frequeency released
-  Infrared - data transmitted in rays of light
-  (reuires a direct lne of sight, direct sunlight
-  Bluetooth2.4Ghz - 24mbps 100m
+      5 standards
+      a,b,g,n,ac (speedd, frequeency released
+      Infrared - data transmitted in rays of light
+      (reuires a direct lne of sight, direct sunlight
+      Bluetooth2.4Ghz - 24mbps 100m
+
+      MAC ADDRESS (media access control)
+      numbers + a-f
+      address = manufactureer (netgear + unique number)
+      ipconfig
+
+      OSI
+      application   (email, HTTP, FTP , people readale data
+      presentation
+      session
+      transport
+      network
+      data link
+      phusical 
   
-  MAC ADDRESS (media access control)
-  numbers + a-f
-  address = manufactureer (netgear + unique number)
-  ipconfig
+ IP  network + host
+     IPv4  (4 octets)
+     IPv6 hexadecimal
+     A , B, C classes
+     Public, 
+     Private, 
+                                                          DHCP SERVER!
+     Dynbamic (DHCP automatically assignes ip, subnet mask, default gateway, dns server)  (Dynamic Host Configuration Protocol) (has SCOPE)
+              APIPA - automatic private ip address assignment
+     Static (manualy assigned)
+   
+     Reservation
+     Lease
+     DHCP relay
+
+
+     Subnetting
+     
+  Protocols   
+     
+     TCP (transmission control prot.)
+     3 hadshake SYN, SYN AKN, AKN
+     
+     UDP (user datagram prot.)
+     no garantees, but quick
+     
+     FTP (file transfer protocol)
+     conneciton orienteed, uses tcp for file transfer,     (security shell)
+     
+     TFTP  (trivial file trnafer protocol)
+     for the same network
+     
+     SMTP (send meil to people) 
+     emails, uses tcp
+     
+     POP3 
+     recieving emails, downloads emails, email removed
+     
+     IMAP4 (internet message access protocol)
+     better
+     
+     HTTP (hyper text transfer prot.)
+     
+     HTTPS (secure)
+     
+     Telnet (teminal emulation program)
   
-  OSI
-  application   (email, HTTP, FTP , people readale data
-  presentation
-  session
-  transport
-  network
-  data link
-  phusical 
-  
-  
-  
+     SSh (secure shell)
+     
+     ARP (address resolution IP to MAC)
+     
+     RARP
+     NTP (clocks)
+     SCP (secrure 
+     SNMP (printers, servers)
+
+PORTS
+    80 http
+    443 https
+    137-139 netbios
+    110
+    143
+    25 email
+    5060/2727
+    1720
+
+
+DNS
+("phonebook analogy")
+WINS
+    
+     
+     
