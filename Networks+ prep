@@ -138,6 +138,14 @@ PORTS
 DNS
 ("phonebook analogy")
 WINS
-    
+NAT (network translation for networks) used by routers, translates bunch of ip to ips (to public)
+PAT (port address trnslation)
+SNAT (static nat) does translation of ip permanently
+Proxy servis (speed, bandwidth, security)
+RDP (remote desktop protocol)
+CSAMA/CD - collision protocol
+CSMA/CA
+Broadcast
+Unicast vs Multicast (data packets send to multiple destinations)
      
      
