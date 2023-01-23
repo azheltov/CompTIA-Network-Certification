@@ -61,12 +61,12 @@ Network components
 
       OSI
       application   (email, HTTP, FTP , people readale data
-      presentation
-      session
-      transport
-      network
-      data link
-      phusical 
+      presentation (utf-8)
+      session (tcp)
+      transport (tcp, udp)
+      network (addressing and logical addressing - IP
+      data link (mac)
+      phusical (cables, etc.)
   
  IP  network + host
      IPv4  (4 octets)
