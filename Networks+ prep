@@ -148,4 +148,15 @@ CSMA/CA
 Broadcast
 Unicast vs Multicast (data packets send to multiple destinations)
      
-     
+ 
+ 
+ tcp/ip model
+ application - http, ftp, dns, smtp (email)
+ transport - tcp, udp (for real-time pro)
+ internnet - ip
+ network interface - ethernet, token ring
+ 
+ utp cable 100m
+ 
+ NAT - network address translation
+ 
